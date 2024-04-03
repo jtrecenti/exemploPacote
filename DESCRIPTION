@@ -20,3 +20,5 @@ Imports:
     readr,
     rvest,
     stringr
+URL: https://github.com/jtrecenti/exemploPacote
+BugReports: https://github.com/jtrecenti/exemploPacote/issues
